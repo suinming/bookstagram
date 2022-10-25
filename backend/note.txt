@@ -1,0 +1,2 @@
+auth.js => user side of manipulate there own information 
+user.js => developer side of manipulate user's data
